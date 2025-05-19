@@ -9,13 +9,6 @@ WiFi-Pumpkin is a security tool that provides the Rogue access point to Man-In-T
 Installation
 Kali 2.0/WifiSlax 4.11.1/Parrot 2.0.5
 
-Python 2.7
- git clone https://github.com/P0cL4bs/WiFi-Pumpkin.git
- cd WiFi-Pumpkin
- chmod +x installer.sh
- ./installer.sh --install
-refer to the wiki for Installation
-
 Features
 Rogue Wi-Fi Access Point
 Deauth Attack Clients AP
